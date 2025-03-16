@@ -23,6 +23,12 @@ The goal of this project is to analyze automotive data and identify key **correl
 | `Automotive_Data_Analysis_Correlation_Feature_Engineering.ipynb` | Jupyter Notebook containing the full analysis workflow. |
 | `autos.clean.csv` | Dataset used for the analysis. |
 
+## Dataset  
+The dataset used in this project can be accessed at the following URL:  
+
+🔗 [Automotive Dataset](https://raw.githubusercontent.com/drazenz/heatmap/master/autos.clean.csv)
+(*if you want to check the dataset through URL browser*)
+
 ---
 
 ## How to Run This Project  
